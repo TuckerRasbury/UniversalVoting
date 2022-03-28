@@ -18,8 +18,9 @@ This repository is meant to 1) review the history of universal voting debates in
 ## Appendix
 
 ### Articles
-- [Universal Voting: Your questions, our answers](https://www.brookings.edu/blog/fixgov/2020/08/06/universal-voting-your-questions-our-answers/) by E.J. Dionne, Jr., Megan Bell, Amber Herrle, Shane P. Singh, Allegra Chapman, Joshua Douglas, Miles Rapoport, and Whitney Quesenbery
-- [Opinion: What if everyone voted? The case for 100 percent democracy.](https://www.washingtonpost.com/opinions/2022/03/23/universal-voting-would-end-legal-battles-over-ballot-access/) by E.J. Dionne Jr. and Miles Rapoport 
+- [Brookings Institute | Lift Every Voice: The Urgency of Universal Civic Duty Voting](https://www.brookings.edu/research/lift-every-voice-the-urgency-of-universal-civic-duty-voting/)
+- [Brookings Institute | Universal Voting: Your questions, our answers](https://www.brookings.edu/blog/fixgov/2020/08/06/universal-voting-your-questions-our-answers/) by E.J. Dionne, Jr., Megan Bell, Amber Herrle, Shane P. Singh, Allegra Chapman, Joshua Douglas, Miles Rapoport, and Whitney Quesenbery
+- [Washington Post | Opinion: What if everyone voted? The case for 100 percent democracy.](https://www.washingtonpost.com/opinions/2022/03/23/universal-voting-would-end-legal-battles-over-ballot-access/) by E.J. Dionne Jr. and Miles Rapoport 
 
 ### Databases, used and reviewed
 - [International Institute for Democracy and Electoral Assistance | United States](https://www.idea.int/data-tools/country-view/295/40)
