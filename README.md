@@ -29,3 +29,6 @@ This repository is meant to 1) review the history of universal voting debates in
 ## ~ Notes Section ~
 Tools to be based on the project
 - javascript reactive map linking to html, c++, and hosted on githib.io
+
+Dashboard Ideas
+- [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int)
