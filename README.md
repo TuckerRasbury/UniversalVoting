@@ -1,12 +1,16 @@
 # UniversalVoting
 This repository is meant to 1) review the history of universal voting debates in the United States and 2) and analyze data around the subject.
 
-##
+## Relevant Background Information
 
 
 ## Project Questions
-1. How many eligible voters abstain from voting by state by year? For the entire country?
-2. 
+1. How am I broadly defining "universal voting" and what are the key mechanisms to make it work at a high level?
+2. Which cities and states already have a version of universal voting in place?
+3. Which states have the largest amount of voting age population? Top 5/10?
+4. Which states have the highest voter turnout? Top 5/10?
+5. How many eligible voters abstain from voting by state by year? For the entire country by year?
+6. Forecast the portion of the voter body under my universal voting plan likely to vote "blank" or "abstain".
 
 
 
