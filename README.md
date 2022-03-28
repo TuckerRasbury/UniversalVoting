@@ -5,7 +5,7 @@ This repository is meant to 1) review the history of universal voting debates in
 
 
 ## Project Questions
-1. How many eligible voters abstain from voting by state by year?
+1. How many eligible voters abstain from voting by state by year? For the entire country?
 2. 
 
 
