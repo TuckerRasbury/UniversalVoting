@@ -1,5 +1,5 @@
 # Universal Voting
-*Webpage - Under Construction: https://tuckerrasbury.github.io/UniversalVoting/*
+* Webpage - Under Construction: https://tuckerrasbury.github.io/UniversalVoting/ *
 
 Voting matters in any nation that actually prides itsself on its democracy. It is the foundation upon which a legitimate claim to govern is built on. With that said, what suprises me each and every US presedential election season is not the newest scandal, which states flip between the two major parties, or how rowdy the public debates get. What surprises me is how underdiscussed the bloc of eligible non-voters consistently is election over election.
 
