@@ -1,5 +1,7 @@
 # UniversalVoting
-This repository is meant to 1) review the history of universal voting debates in the United States and 2) and analyze data around the subject.
+Voting matters in any nation that actually prides itsself on its democracy. It is the foundation upon which a legitimate claim to govern is built on. With that said, what suprises me each and every US presedential election season is not the newest scandal, which states flip between the two major parties, or how rowdy the public debates get. What surprises me is how underdiscussed the bloc of eligible non-voters consistently is election over election.
+
+If voting is the foundation of a vibrant democracy, it would behoove the United States government to find ways to engage this consistent and massive bloc of the public. This repository is meant to 1) briefly review the history of a novel idea to engage more of the US public in the electoral political system - universal voting, 2) and analyze data around the subject using exploratory data analysis methods, and 3) ship data visualizations that help illuminate the positive impact universal voting could have on the United States' democracy.
 
 ## Relevant Background Information
 
